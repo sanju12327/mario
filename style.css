@@ -1,0 +1,67 @@
+body
+{
+background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    margin: 0;
+    text-align: left;
+}
+
+.heading button
+{ 
+    float: right;
+    border: 1px solid whitesmoke;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.big_img
+{
+    width: 100%;
+}
+
+#start
+{
+    font-size: 22px;
+}
+
+h4{
+    background-color: whitesmoke;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.instruction-image
+{
+    display: inline-block;
+    width: 45%;
+}
+
+.instruction_div img
+{
+    margin:20px;
+    width: 80%;
+    border-radius: 40px;
+  /*   set the margin left property to auto,  set the margin right property to auto */
+  margin-left:auto;
+  margin-right:auto;
+}
+
+video
+{
+    background: url(game_console.png);
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
